@@ -1,2 +1,2 @@
 console.log('congfig.js');
-console.log('version2');
+console.log('version2 updated');
